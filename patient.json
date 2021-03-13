@@ -1,0 +1,35 @@
+[
+
+    {
+        "name":"Alex",
+        "age" : 19,
+        "problem":"Cough",
+        "city": "Mumbai"
+    },
+    {
+        "name":"Eminem",
+        "age" : 42,
+        "problem":"Sore Throats",
+        "city": "Detroit"
+    },
+    {
+        "name":"Bruno",
+        "age" : 35,
+        "problem":"Fever",
+        "city": "Rio"
+    },
+    {
+        "name":"Taylor",
+        "age" : 29,
+        "problem":"Colds",
+        "city": "California"
+    },
+    {
+        "name":"Billy",
+        "age" : 40,
+        "problem":"Flu",
+        "city": "London"
+    }
+    
+
+]
